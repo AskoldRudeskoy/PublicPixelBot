@@ -4,7 +4,7 @@
 // @version      3.0
 // @description  try to take over the world!
 // @author       Flyink13, DarkKeks
-// @match        https://pixel.vkforms.ru/*
+// @match        https://vk.com/app5990572_-147845620*
 // @downloadURL  https://github.com/v14d1514v/PublicPixelBot/blob/master/PixelBot.user.js
 // @updateURL    https://github.com/v14d1514v/PublicPixelBot/blob/master/PixelBot.user.js
 // @grant        none
