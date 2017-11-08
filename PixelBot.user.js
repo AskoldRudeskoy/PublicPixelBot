@@ -5,8 +5,8 @@
 // @description  try to take over the world!
 // @author       Flyink13, DarkKeks
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://raw.githubusercontent.com/DarkKeks/PublicPixelBot/master/PixelBot.user.js
-// @updateURL    https://raw.githubusercontent.com/DarkKeks/PublicPixelBot/master/PixelBot.user.js
+// @downloadURL  https://github.com/v14d1514v/PublicPixelBot/blob/master/PixelBot.user.js
+// @updateURL    https://github.com/v14d1514v/PublicPixelBot/blob/master/PixelBot.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -14,8 +14,8 @@ function CoiPixelBot() {
     window.CoiPixelBot = CoiPixelBot;
 
     CoiPixelBot.url = {
-        script: 'https://raw.githubusercontent.com/DarkKeks/PublicPixelBot/master/PixelBot.user.js',
-        image:  'https://i.imgur.com/CDdWIQu.png'
+        script: 'https://github.com/v14d1514v/PublicPixelBot/blob/master/PixelBot.user.js',
+        image:  'https://i.imgur.com/5aH5eis'
     };
 
     CoiPixelBot.refreshTime = 300;
