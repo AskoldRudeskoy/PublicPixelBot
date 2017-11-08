@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  try to take over the world!
 // @author       DarkKeks
-// @match        https://pixel.vkforms.ru/*
+// @match        https://vk.com/app5990572_-147845620/*
 // @downloadURL  https://rawgit.com/DarkKeks/PublicPixelBot/master/PixelBotLoader.user.js
 // @updateURL    https://rawgit.com/DarkKeks/PublicPixelBot/master/PixelBotLoader.user.js
 // @grant        none
